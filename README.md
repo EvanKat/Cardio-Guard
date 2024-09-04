@@ -10,4 +10,10 @@ Install the dependencies listed in requirments.txt using ```pip install -r requi
 
 To connect to a movesense device, capture raw ECG data and process them, use ```python manage.py``` 
 
-TO display the processed data use ```python analytics.py```
+To display the processed data use ```python analytics.py```
+
+If movesense device is not available, and for some reason need to run the manage.py, uncomment the hl.* methods and comment the reffering mv_blk.* ones.
+
+For now the manage app can connect to only one movesense device, and proccess only ECG data.
+
+Its a bit buggy sometimes. 
