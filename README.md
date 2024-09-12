@@ -2,7 +2,7 @@
 # Cardio-Guard
 **An AI-Driven Cardiovascular Monitoring and Arrhythmia Detection System**
 
-A proposed project on heart monitoring for my thesis at the ECE Department, Technical University of Crete.
+A proposed project on heart monitoring for my thesis at the ECE Department, Technical University of Crete [[1]](#1).
 
 ---
 
@@ -41,9 +41,13 @@ pip install -r requirements.txt
 ### Limitations
 
 - Currently, the `manage.py` application can only connect to one Movesense device and process ECG data.
-- The application might be a bit buggy at times, so please report any issues encountered.
+- The application might sometimes be a bit buggy, so please report any issues you encounter.
 
 ---
 
 ## TODO
 - Update the project documentation and improve stability.
+
+## References
+<a id="1">[1]</a> 
+Evangelos Katsoupis, "Development of a cardiovascular disease monitoring system", Diploma Work, School of Electrical and Computer Engineering, Technical University of Crete, Chania, Greece, 2024 https://doi.org/10.26233/heallink.tuc.100510
