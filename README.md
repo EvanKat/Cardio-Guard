@@ -1,5 +1,5 @@
 
-# Cardio-Guard
+# PulSense
 **An AI-Driven Cardiovascular Monitoring and Arrhythmia Detection System**
 
 A proposed project on heart monitoring for my thesis at the ECE Department, Technical University of Crete [[1]](#1).
